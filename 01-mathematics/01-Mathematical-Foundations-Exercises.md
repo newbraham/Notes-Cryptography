@@ -491,13 +491,13 @@ $$
 Its image is
 
 $$  
-\operatorname{Im}(f)=\{3k+1\mid k\in\mathbb{Z}\}.  
+\mathrm{Im}(f)=\{3k+1\mid k\in\mathbb{Z}\}.
 $$
 
 Equivalently,
 
 $$  
-\operatorname{Im}(f)=\{n\in\mathbb{Z}\mid n\equiv1\pmod3\}.  
+\mathrm{Im}(f)=\{n\in\mathbb{Z}\mid n\equiv1\pmod3\}.
 $$
 
 Hence, $f$ is injective but not surjective, and therefore it is not bijective.
@@ -531,7 +531,7 @@ For every $x\in\mathbb{R}$, we have $x^2\geq0$. Therefore, no negative real numb
 Conversely, let $y\in[0,\infty)$ be arbitrary and choose $x=\sqrt{y}$. Then $x\in\mathbb{R}$ and $f(x)=x^2=y$, so every nonnegative real number belongs to the image. Hence both inclusions hold, and
 
 $$  
-\operatorname{Im}(f)=[0,\infty)  
+\mathrm{Im}(f)=[0,\infty)
 \neq  
 \mathbb{R}.  
 $$
@@ -771,7 +771,7 @@ Let $E:M\to C$ and $D:C\to M$ be functions satisfying $D(E(m))=m$ for every $m\i
 Equivalently,
 
 $$  
-D\circ E=\operatorname{id}_M.  
+D\circ E=\mathrm{id}_M.
 $$
 
 We first prove that $E$ is injective.
@@ -816,7 +816,7 @@ $$
 \boxed{D\text{ is not necessarily injective}.}  
 $$
 
-The condition $D\circ E=\operatorname{id}_M$ does imply two general properties: $E$ is injective and $D$ is surjective.
+The condition $D\circ E=\mathrm{id}_M$ does imply two general properties: $E$ is injective and $D$ is surjective.
 
 To see why $D$ is surjective, let $m\in M$ be arbitrary. The element $E(m)\in C$ satisfies $D(E(m))=m$, so every element of $M$ has a preimage under $D$.
 

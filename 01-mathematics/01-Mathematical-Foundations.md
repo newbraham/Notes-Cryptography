@@ -1031,13 +1031,13 @@ $$
 also denoted
 
 $$  
-\operatorname{Im}(f).  
+\mathrm{Im}(f).
 $$
 
 Thus,
 
 $$  
-\operatorname{Im}(f)\subseteq B.  
+\mathrm{Im}(f)\subseteq B.
 $$
 
 If $T\subseteq B$, the **preimage** of $T$ is
@@ -1106,7 +1106,7 @@ $$
 Equivalently,
 
 $$  
-\operatorname{Im}(f)=B.  
+\mathrm{Im}(f)=B.
 $$
 
 A function is **bijective** if it is both injective and surjective.
@@ -1233,13 +1233,13 @@ may be different functions or one of them may not even be well-defined.
 For every set $A$, the **identity function** is
 
 $$  
-\operatorname{id}_A:A\to A  
+\mathrm{id}_A:A\to A
 $$
 
 defined by
 
 $$  
-\operatorname{id}_A(x)=x.  
+\mathrm{id}_A(x)=x.
 $$
 
 For every function
@@ -1251,13 +1251,13 @@ $$
 we have
 
 $$  
-f\circ\operatorname{id}_A=f  
+f\circ\mathrm{id}_A=f
 $$
 
 and
 
 $$  
-\operatorname{id}_B\circ f=f.  
+\mathrm{id}_B\circ f=f.
 $$
 
 A function
@@ -1275,13 +1275,13 @@ $$
 such that
 
 $$  
-g\circ f=\operatorname{id}_A  
+g\circ f=\mathrm{id}_A
 $$
 
 and
 
 $$  
-f\circ g=\operatorname{id}_B.  
+f\circ g=\mathrm{id}_B.
 $$
 
 Such a function $g$ is unique and is denoted by
@@ -1753,7 +1753,7 @@ $$
 Equivalently,
 
 $$  
-D_k\circ E_k=\operatorname{id}_{\mathcal{M}}  
+D_k\circ E_k=\mathrm{id}_{\mathcal{M}}
 $$
 
 for every $k\in\mathcal{K}$.
