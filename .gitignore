@@ -1,0 +1,11 @@
+# Ignore todos os arquivos por padrão.
+*
+
+# Permita percorrer subdiretórios para encontrar os tipos liberados.
+!*/
+
+# Versione somente documentos Markdown e PDF.
+!*.md
+!*.pdf
+
+!.gitignore
