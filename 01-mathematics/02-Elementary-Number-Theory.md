@@ -941,7 +941,7 @@ This example is intentionally tiny and provides no security. Textbook RSA withou
 
 # 17. A Step-by-Step C++ Demonstration
 
-The [complete C++ source](examples/02-toy-rsa.cpp) implements the toy RSA example while exposing every important arithmetic step to the user. With no command-line arguments, it uses $p=11$, $q=17$, $e=7$, and $m=8$. Four alternative values may be supplied in that order.
+The [complete C++ source](https://github.com/newbraham/Notes-Cryptography/blob/main/01-mathematics/examples/02-toy-rsa.cpp) implements the toy RSA example while exposing every important arithmetic step to the user. With no command-line arguments, it uses $p=11$, $q=17$, $e=7$, and $m=8$. Four alternative values may be supplied in that order.
 
 From the `01-mathematics` directory, compile and run the program with
 
