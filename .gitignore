@@ -4,8 +4,9 @@
 # Permita percorrer subdiretórios para encontrar os tipos liberados.
 !*/
 
-# Versione somente documentos Markdown e PDF.
+# Versione somente documentos Markdown, PDF e exemplos em C++.
 !*.md
 !*.pdf
+!*.cpp
 
 !.gitignore
